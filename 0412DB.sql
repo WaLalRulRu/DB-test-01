@@ -89,3 +89,5 @@ INSERT INTO 주문 VALUES ('o09', 'banana', 'p04', 15, '전라남도 목포시',
 
 INSERT INTO 주문 VALUES ('o10', 'carrot', 'p03', 20, '경기도 안양시', to_date('2022-05-22', 'YYYY-MM-DD'));
 
+//와랄ㄹ라라라라라라라햐
+
